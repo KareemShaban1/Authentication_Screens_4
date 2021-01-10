@@ -1,8 +1,8 @@
 # Flutter Beautiful Login Page UI Design and Animation
 
-Flutter Beautiful Login Page UI Design and Animation - day 14 Flutter Animation and UI Design.
+Flutter Beautiful Login Page UI Design and Animation 
 
-This repository is a part of the 100-day design in Flutter.
+Do ⭐ the repo it really motivates me to share more open source
 
 In this video we use, Flutter Animation, Fade, Stack, Positioned, BoxShadow, TextField, Gradient, LinearGradient and so on in the one-speed video.
 

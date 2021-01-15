@@ -8,3 +8,4 @@ In this video we use, Flutter Animation, Fade, Stack, Positioned, BoxShadow, Tex
 
 ## [Watch it on YouTube]( https://youtu.be/S-LXtMRtA9I )
 
+![prototype](https://user-images.githubusercontent.com/42013687/104687980-e51a6800-5708-11eb-87d4-5cdf9efbf73c.png)
